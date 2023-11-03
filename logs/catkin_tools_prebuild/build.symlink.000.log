@@ -1,0 +1,12 @@
+Symlinking /home/victor/abb_simulation_dtw/devel/./env.sh
+Symlinking /home/victor/abb_simulation_dtw/devel/./local_setup.bash
+Symlinking /home/victor/abb_simulation_dtw/devel/./local_setup.sh
+Symlinking /home/victor/abb_simulation_dtw/devel/./cmake.lock
+Symlinking /home/victor/abb_simulation_dtw/devel/./setup.sh
+Symlinking /home/victor/abb_simulation_dtw/devel/./local_setup.zsh
+Symlinking /home/victor/abb_simulation_dtw/devel/./setup.zsh
+Symlinking /home/victor/abb_simulation_dtw/devel/./_setup_util.py
+Symlinking /home/victor/abb_simulation_dtw/devel/./setup.bash
+Symlinking /home/victor/abb_simulation_dtw/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/victor/abb_simulation_dtw/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/victor/abb_simulation_dtw/devel/lib/pkgconfig/catkin_tools_prebuild.pc

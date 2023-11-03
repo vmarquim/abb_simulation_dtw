@@ -1,0 +1,1 @@
+/home/victor/abb_simulation_dtw/devel/.private/catkin_tools_prebuild/env.sh

@@ -1,0 +1,13 @@
+<launch>
+
+    <include file="$(find abb_irb1200_5_90_moveit_config)/launch/move_group.launch">
+        <arg name="publish_monitored_planning_scene" value="true" />
+    </include>
+
+    <include file="$(find abb_irb1200_gazebo)/launch/irb1200_5_90_gazebo.launch" />
+
+    <include file="$(find abb_irb1200_5_90_moveit_config)/launch/moveit_rviz.launch">
+        <arg name="config" value="true"/>
+    </include>
+
+</launch>

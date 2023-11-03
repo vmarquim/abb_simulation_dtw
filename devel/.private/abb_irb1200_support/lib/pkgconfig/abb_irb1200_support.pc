@@ -1,0 +1,8 @@
+prefix=/home/victor/abb_simulation_dtw/devel/.private/abb_irb1200_support
+
+Name: abb_irb1200_support
+Description: Description of abb_irb1200_support
+Version: 1.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

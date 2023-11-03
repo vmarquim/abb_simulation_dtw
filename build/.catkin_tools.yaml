@@ -1,0 +1,6 @@
+devel_space: /home/victor/abb_simulation_dtw/devel
+install: false
+install_space: /home/victor/abb_simulation_dtw/install
+profile: default
+source_space: /home/victor/abb_simulation_dtw/src
+workspace: /home/victor/abb_simulation_dtw

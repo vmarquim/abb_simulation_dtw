@@ -1,0 +1,8 @@
+prefix=/home/victor/abb_simulation_dtw/devel/.private/abb_irb1200_5_90_dtw_sim
+
+Name: abb_irb1200_5_90_dtw_sim
+Description: Description of abb_irb1200_5_90_dtw_sim
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

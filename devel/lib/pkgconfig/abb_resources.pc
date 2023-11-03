@@ -1,0 +1,1 @@
+/home/victor/abb_simulation_dtw/devel/.private/abb_resources/lib/pkgconfig/abb_resources.pc

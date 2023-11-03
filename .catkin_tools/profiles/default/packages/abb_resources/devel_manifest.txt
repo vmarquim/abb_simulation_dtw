@@ -1,0 +1,5 @@
+abb_resources
+/home/victor/abb_simulation_dtw/devel/.private/abb_resources/cmake.lock /home/victor/abb_simulation_dtw/devel/./cmake.lock
+/home/victor/abb_simulation_dtw/devel/.private/abb_resources/share/abb_resources/cmake/abb_resourcesConfig.cmake /home/victor/abb_simulation_dtw/devel/share/abb_resources/cmake/abb_resourcesConfig.cmake
+/home/victor/abb_simulation_dtw/devel/.private/abb_resources/share/abb_resources/cmake/abb_resourcesConfig-version.cmake /home/victor/abb_simulation_dtw/devel/share/abb_resources/cmake/abb_resourcesConfig-version.cmake
+/home/victor/abb_simulation_dtw/devel/.private/abb_resources/lib/pkgconfig/abb_resources.pc /home/victor/abb_simulation_dtw/devel/lib/pkgconfig/abb_resources.pc

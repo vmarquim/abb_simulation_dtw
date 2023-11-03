@@ -1,0 +1,3 @@
+Symlinking /home/victor/abb_simulation_dtw/devel/share/abb_resources/cmake/abb_resourcesConfig.cmake
+Symlinking /home/victor/abb_simulation_dtw/devel/share/abb_resources/cmake/abb_resourcesConfig-version.cmake
+Symlinking /home/victor/abb_simulation_dtw/devel/lib/pkgconfig/abb_resources.pc

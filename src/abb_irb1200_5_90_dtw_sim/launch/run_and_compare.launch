@@ -1,0 +1,11 @@
+<launch>
+
+    <arg name="run_mode" default="square"/>
+    <arg name="carthesian" default="true"/>
+
+    <node pkg="abb_irb1200_5_90_dtw_sim" name="program" type="program.py" output="screen"> 
+        <param name="run_mode" value="$(arg run_mode)"/>
+        <param name="carthesian" value="$(arg carthesian)"/>
+    </node>
+
+</launch>

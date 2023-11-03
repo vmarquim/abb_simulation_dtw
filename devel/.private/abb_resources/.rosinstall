@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/victor/abb_simulation_dtw/devel/.private/abb_resources/setup.sh

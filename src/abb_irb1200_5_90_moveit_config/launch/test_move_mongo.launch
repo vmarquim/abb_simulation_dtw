@@ -1,0 +1,4 @@
+<launch>
+    <include file="$(find mongodb_log)/launch/mongodb_log.launch"/>
+    <include file="$(find abb_irb1200_5_90_moveit_config)/launch/test_move.launch"/>
+</launch>
